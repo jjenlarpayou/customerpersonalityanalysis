@@ -11,6 +11,7 @@ This project applies data science techniques to analyze customer behavior and se
   - K-Means clustering
   - PCA for dimensionality reduction
   - XGBoost classifier for cluster prediction
+  - Yellowbrick for choosing k cluster
 
 ## 📊 Key Features
 
@@ -58,5 +59,5 @@ Key visualizations include:
 Feel free to connect or reach out if you have feedback or suggestions!
 
 **Jenlarp Jenlarpwattanakul**  
-[LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-j.jenlarpayn@gmail.com
+[LinkedIn Profile](www.linkedin.com/in/jenlarp-jenlarpwattanakul-635b26288)  
+[Email](j.jenlarpayn@gmail.com)
