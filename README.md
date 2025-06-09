@@ -59,5 +59,5 @@ Key visualizations include:
 Feel free to connect or reach out if you have feedback or suggestions!
 
 **Jenlarp Jenlarpwattanakul**  
-[LinkedIn Profile](www.linkedin.com/in/jenlarp-jenlarpwattanakul-635b26288)  
-Email: j.jenlarpayn@gmail.com
+[www.linkedin.com/in/jenlarp-jenlarpwattanakul-635b26288] 
+[j.jenlarpayn@gmail.com]
